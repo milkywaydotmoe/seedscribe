@@ -1,0 +1,17 @@
+name: deploy
+on: 
+  push:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: executing remote ssh commands using ssh key
+        uses: appleboy/ssh-action@v1.2.0
+        with:
+          host: 45.86.153.175
+          username: github
+          key: ${{ secrets.DEPLOY_KEY }}
+          port: 22
+          script: "cd /var/www/seedscribe.milkyway.moe/main && git reset --hard && git pull origin main --rebase"
