@@ -2022,6 +2022,16 @@ ul.actions li:first-child {
 	margin-left: 0;
 }
 
+.leftli li {
+	text-align: left;
+	font-size: 12pt;
+}
+
+.faq li {
+	line-height: 18pt;
+	margin-bottom: 25pt;
+}
+
 /* Contact */
 
 i.contact {
