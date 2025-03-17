@@ -1,14 +1,14 @@
 [
     {
         "index": 0,
-        "header": "Featured Post Testing",
-        "subheader": "this is a test of the static-site newsletter manager",
-        "thumbnail": "https://disk.milkyway.moe/seedscribe/siteassets/images/placeholders/test_phldr.png",
-        "alttext": "Testing...",
-        "summary": "Just checking to see if everything works. Ignore this post, it doesn't lead to anything related to this.",
-        "link": "https://youtu.be/dQw4w9WgXcQ",
-        "postDate": "March 6, 2025",
-        "tags": "test, ignore this, dont look, prototyping use only"
+        "header": "Paper, Seeds, and Success",
+        "subheader": "Seedscribe has made it!",
+        "thumbnail": "https://disk.milkyway.moe/seedscribe/newsletter/0317/main.jpg",
+        "alttext": "Seedscribe Defense",
+        "summary": "Guess what? SeedScribe made it! The ECO-FRIENDLY SEED NOTEBOOK WITH DIGITAL WEBSITE is ready to bloom! 🌸📚",
+        "link": "/news/articles/2025/0317_PaperSeedsSuccess.html",
+        "postDate": "March 17, 2025",
+        "tags": "news, product launch, product teaser"
     },
     {
         "index": 1,
