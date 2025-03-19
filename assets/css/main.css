@@ -59,6 +59,20 @@
 
 @keyframes g-5 { 50% { --g5-1-x-position: 99.0234375%; --g5-1-y-position: 99.0234375%; --g5-2-x-position: 84.1796875%; --g5-2-y-position: 13.671875%; --g5-3-x-position: 2.8906249999999996%; --g5-3-y-position: 46.1328125%; } }
 
+.tbnail {
+	aspect-ratio: 16 / 9.5 !important; /* Force 16:9 ratio */
+  background-repeat: fill;
+  position: relative !important;
+}
+
+.tbnail img {
+  width: 100% !important;
+  height: 100% !important;
+  object-fit: cover !important;        /* Fill container, crop excess */
+  object-position: center center !important; /* Center the image */
+  display: block !important;
+}
+
 * {
 	image-rendering: smooth;
 }
