@@ -1,6 +1,17 @@
 [
     {
         "index": 0,
+        "header": "Planting the seeds in Pagsanjan!",
+        "subheader": "An outreach to plant seeds of wonder in the youth!",
+        "thumbnail": "https://disk.milkyway.moe/seedscribe/newsletter/0517/tb.jpg",
+        "alttext": "Pagsanjan Program",
+        "summary": "",
+        "link": "/news/articles/2025/0517_PagsanjanProgram.html",
+        "postDate": "May 17, 2025",
+        "tags": "news, outreach"
+    },
+    {
+        "index": 1,
         "header": "Paper, Seeds, and Success",
         "subheader": "Seedscribe has made it!",
         "thumbnail": "https://disk.milkyway.moe/seedscribe/newsletter/0317/main.jpg",
@@ -10,59 +21,49 @@
         "postDate": "March 17, 2025",
         "tags": "news, product launch, product teaser"
     },
-    {
-        "index": 1,
-        "header": "Sidebar Test 1",
-        "subheader": "this is a test of the static-site newsletter manager",
-        "thumbnail": "https://disk.milkyway.moe/seedscribe/siteassets/images/placeholders/test_phldr.png",
-        "alttext": "Testing...",
-        "summary": "Just checking to see if everything works. Ignore this post, it doesn't lead to anything related to this.",
-        "link": "https://test1.com",
-        "postDate": "March 6, 2025",
-        "tags": "test, ignore this, dont look, prototyping use only"
-    },
+
     {
         "index": 2,
-        "header": "Sidebar Test 2",
-        "subheader": "this is a test of the static-site newsletter manager",
-        "thumbnail": "https://disk.milkyway.moe/seedscribe/siteassets/images/placeholders/test_phldr.png",
-        "alttext": "Testing...",
-        "summary": "Just checking to see if everything works. Ignore this post, it doesn't lead to anything related to this.",
-        "link": "https://test2.com",
-        "postDate": "March 6, 2025",
-        "tags": "test, ignore this, dont look, prototyping use only"
+        "header": "",
+        "subheader": "",
+        "thumbnail": "",
+        "alttext": "",
+        "summary": "",
+        "link": "#",
+        "postDate": "",
+        "tags": ""
     },
     {
         "index": 3,
-        "header": "Sidebar Test 3",
-        "subheader": "this is a test of the static-site newsletter manager",
-        "thumbnail": "https://disk.milkyway.moe/seedscribe/siteassets/images/placeholders/test_phldr.png",
-        "alttext": "Testing...",
-        "summary": "Just checking to see if everything works. Ignore this post, it doesn't lead to anything related to this.",
-        "link": "https://test3.com",
-        "postDate": "March 6, 2025",
-        "tags": "test, ignore this, dont look, prototyping use only"
+        "header": "",
+        "subheader": "",
+        "thumbnail": "",
+        "alttext": "",
+        "summary": "",
+        "link": "#",
+        "postDate": "",
+        "tags": ""
     },
     {
         "index": 4,
-        "header": "Sidebar Test 4",
-        "subheader": "this is a test of the static-site newsletter manager",
-        "thumbnail": "https://disk.milkyway.moe/seedscribe/siteassets/images/placeholders/test_phldr.png",
-        "alttext": "Testing...",
-        "summary": "Just checking to see if everything works. Ignore this post, it doesn't lead to anything related to this.",
-        "link": "https://test4.com",
-        "postDate": "March 6, 2025",
-        "tags": "test, ignore this, dont look, prototyping use only"
+        "header": "",
+        "subheader": "",
+        "thumbnail": "",
+        "alttext": "",
+        "summary": "",
+        "link": "#",
+        "postDate": "",
+        "tags": ""
     },
     {
         "index": 5,
-        "header": "Sidebar Test 5",
-        "subheader": "this is a test of the static-site newsletter manager",
-        "thumbnail": "https://disk.milkyway.moe/seedscribe/siteassets/images/placeholders/test_phldr.png",
-        "alttext": "Testing...",
-        "summary": "Just checking to see if everything works. Ignore this post, it doesn't lead to anything related to this.",
-        "link": "https://test5.com",
-        "postDate": "March 6, 2025",
-        "tags": "test, ignore this, dont look, prototyping use only"
+        "header": "",
+        "subheader": "",
+        "thumbnail": "",
+        "alttext": "",
+        "summary": "",
+        "link": "#",
+        "postDate": "",
+        "tags": ""
     }
 ]
